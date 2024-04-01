@@ -1,0 +1,13 @@
+jupyter==1.0.0
+lancedb==0.6.5
+langchain-community==0.0.29
+langchain==0.1.13
+numpy==1.24.4
+openai==1.14.3
+opencv-python==4.9.0.80
+pandas==2.2.1
+pydantic==2.6.4
+pytest==3.6.0
+scikit-image==0.17.2
+sentence-transformers>=2.2.0
+transformers>=4.31.0
